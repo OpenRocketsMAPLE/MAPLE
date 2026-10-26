@@ -1,0 +1,8 @@
+# Local tool settings
+.agents/
+.aws/
+.codex/
+
+# Temporary office files
+.~lock.*#
+*.odt~
