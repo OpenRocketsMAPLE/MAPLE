@@ -8,7 +8,7 @@
 - Added contribution guidelines for branch-based review in the private repository.
 - Developed the website content plan, including publication records and review history.
 - Added a Contact Us page to the website content plan.
-- Clarified that the website content is still under development.
+- Clarified that the website content is still under development and that Arjun handles the website.
 
 ### Initial repository setup
 
