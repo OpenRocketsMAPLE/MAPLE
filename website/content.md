@@ -1,6 +1,10 @@
 # MAPLE Website Content
 
-**Development status:** This content is a working draft, not the final website content, and is still under development.
+> **IMPORTANT NOTE**
+>
+> This document is a working draft. Its contents are still under development and are not the final website content.
+>
+> Arjun will handle the website's design, user interface, development, and all other website decisions. This document is a content plan for the website, not a design specification.
 
 This document outlines the story, information, and resources for the MAPLE website. It describes content rather than visual design. Publish material and links only when they are ready for public release; the development repository remains private.
 
