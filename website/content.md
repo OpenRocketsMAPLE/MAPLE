@@ -62,6 +62,14 @@ Share project updates and approved publications through the existing public chan
 
 Add further verified social or contact links when they are ready. Keep the private repository and internal team materials out of the public link collection.
 
+## 11. Contact Us page
+
+**Get in touch**
+
+Have a question about MAPLE, feedback on the project, or an interest in contributing to its research and development? We would love to hear from you. Researchers, legal professionals, young creators, and potential collaborators are welcome to reach out.
+
+The [OpenRockets general contact](https://openrockets.com/) is **team@openrockets.com**. This is an OpenRockets address, not a dedicated MAPLE mailbox. A MAPLE-specific contact channel or contact form can be added if one is established. Visitors may also follow project updates through the [MAPLE publication](https://maplelicense.substack.com/).
+
 ## Background reading
 
 - [OpenRockets MAPLE: The World's First?](https://maplelicense.substack.com/p/openrockets-maple-the-worlds-first)
