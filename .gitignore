@@ -6,3 +6,7 @@
 # Temporary office files
 .~lock.*#
 *.odt~
+
+# Python cache files
+__pycache__/
+*.py[cod]
