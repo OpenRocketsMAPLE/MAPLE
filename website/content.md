@@ -4,7 +4,7 @@
 >
 > This document is a working draft. Its contents are still under development and are not the final website content.
 >
-> Arjun will handle the website's design, user interface, development, and all other website decisions. This is a content plan, with bento boxes for resource links as its only UI guidance.
+> Arjun (aka me) will handle the website's design, user interface, development, and all other website decisions. This is a content plan, with bento boxes for resource links as its only UI guidance.
 
 This document outlines the story, information, and resources for the MAPLE website. Publish material and links only when they are ready for public release; the development repository remains private.
 
