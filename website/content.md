@@ -4,7 +4,7 @@
 >
 > This document is a working draft. Its contents are still under development and are not the final website content.
 >
-> Arjun will handle the website's design, user interface, development, and all other website decisions. This is a content plan, with bento boxes for resource links as its only UI guidance.
+> Arjun will handle the website's design, user interface, development, and all other website decisions. This document is a content plan for the website.
 
 This document outlines the story, information, and resources for the MAPLE website. Publish material and links only when they are ready for public release; the development repository remains private.
 
@@ -107,3 +107,5 @@ The [OpenRockets general contact](https://openrockets.com/) is **team@openrocket
 
 - [OpenRockets MAPLE: The World's First?](https://maplelicense.substack.com/p/openrockets-maple-the-worlds-first)
 - [Arjun explains: What is OpenRockets?](https://maplelicense.substack.com/p/arjun-explains-what-is-openrockets)
+
+**UI guidance:** TBA
