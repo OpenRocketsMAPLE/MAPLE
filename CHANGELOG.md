@@ -9,6 +9,7 @@
 - Developed the website content plan, including publication records and review history.
 - Added a Contact Us page to the website content plan.
 - Clarified that the website content is still under development and that Arjun handles the website.
+- Expanded the website plan with a future-use section, FAQ, quote, partnership inquiries, and resource links including the white paper.
 
 ### Initial repository setup
 
