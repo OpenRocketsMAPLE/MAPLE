@@ -1,5 +1,7 @@
 # MAPLE Website Content
 
+**Development status:** This content is a working draft, not the final website content, and is still under development.
+
 This document outlines the story, information, and resources for the MAPLE website. It describes content rather than visual design. Publish material and links only when they are ready for public release; the development repository remains private.
 
 ## 1. Introduction
