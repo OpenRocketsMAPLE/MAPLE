@@ -4,9 +4,9 @@
 >
 > This document is a working draft. Its contents are still under development and are not the final website content.
 >
-> Arjun will handle the website's design, user interface, development, and all other website decisions. This document is a content plan for the website, not a design specification.
+> Arjun will handle the website's design, user interface, development, and all other website decisions. This is a content plan, with bento boxes for resource links as its only UI guidance.
 
-This document outlines the story, information, and resources for the MAPLE website. It describes content rather than visual design. Publish material and links only when they are ready for public release; the development repository remains private.
+This document outlines the story, information, and resources for the MAPLE website. Publish material and links only when they are ready for public release; the development repository remains private.
 
 ## 1. Introduction
 
@@ -25,6 +25,8 @@ Connect this section to the license's version history and publication records, a
 - [Open Source Initiative license directory](https://opensource.org/licenses/)
 - [SPDX License List](https://spdx.org/licenses/)
 - [Zenodo](https://zenodo.org/)
+
+Include a link to the MAPLE white paper when an approved public copy is available. Present the OSI, SPDX, Zenodo, white paper, and other relevant resource links in organized bento boxes.
 
 These are general resources, not MAPLE-specific listings or records. Add links to MAPLE's own Zenodo records and DOIs when published, and to any OSI or SPDX listing only if it is granted. OSI approval and SPDX listing are separate processes.
 
