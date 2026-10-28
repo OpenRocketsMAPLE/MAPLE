@@ -1,1 +1,43 @@
-TBA
+MAPLE License
+Version 0.1.0 (Unratified Working Draft), October 2026
+<<Canonical License URL TBA in Version 1.0>>
+Status: NON-OPERATIVE DRAFT, DO NOT USE OR APPLY
+IMPORTANT LEGAL NOTICE, NULLITY OF DRAFT: This document (Version 0.1.0, and any version bearing a leading "0" in its version identifier) is an incomplete, unratified working draft created solely for internal drafting and review. It is NOT a valid or operative license. No rights, permissions, or licenses (whether express, implied, or by estoppel) are granted by this document. Under no circumstances may any person or entity apply, adopt, or reference this draft for any work. Any purported licensing or distribution of a work under a "0.X.Y" draft version is void ab initio and without legal effect.
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, SUBLICENSING, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction, modification, sublicensing, and distribution as defined by Sections 1 through 9 of this document.
+
+[Additional definitions reserved for subsequent 0.X.Y draft iterations]
+[Sections 2 through 9: Reserved for subsequent 0.X.Y draft iterations]
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the MAPLE License to your work.
+
+[DRAFT RESTRICTION: The boilerplate notice below is a structural template under active development. Do not attach this notice to any file or work while the License remains in the 0.X.Y Pre-Release Phase.]
+
+      To apply the MAPLE License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!) The text should be enclosed in the appropriate
+      comment syntax for the file format. We recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the MAPLE License, Version 0.1.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       <NO OPERATIVE URI, UNRATIFIED WORKING DRAFT>
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+

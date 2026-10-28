@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### License and project documentation
+
+- Synchronized the plain-text license draft with the ODT and added a repeatable synchronization check.
+- Added contribution guidelines for branch-based review in the private repository.
+- Developed the website content plan, including publication records and review history.
+
 ### Initial repository setup
 
 - Added the MAPLE license working draft, version `0.1.0`.
