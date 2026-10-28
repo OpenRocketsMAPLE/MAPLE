@@ -7,6 +7,7 @@
 - Synchronized the plain-text license draft with the ODT and added a repeatable synchronization check.
 - Added contribution guidelines for branch-based review in the private repository.
 - Developed the website content plan, including publication records and review history.
+- Added a Contact Us page to the website content plan.
 
 ### Initial repository setup
 
