@@ -26,4 +26,4 @@ python3 -m unittest discover -s tests -v
 
 The pull-request check detects a draft that is out of sync. If the ODT gains an unsupported structure, such as a table or list, the extractor must be updated before the plain-text copy can be regenerated. Use the [versioning specification](docs/versioning.md) when changing the license version.
 
-Version `0.1.0` is an unratified, non-operative draft. It does not grant permissions and must not be applied to a work.
+Version `0.2.0` is an unratified, non-operative draft. It does not grant permissions and must not be applied to a work.

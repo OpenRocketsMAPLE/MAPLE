@@ -14,7 +14,7 @@ This document outlines the story, information, and resources for the MAPLE websi
 
 MAPLE, the Minor Authors’ Public License for Expression, is an OpenRockets initiative exploring a licensing framework with young creators in mind. It aims to make authorship, attribution, and choices about sharing intellectual property easier to understand.
 
-**Current status:** MAPLE version `0.1.0` is an unratified, non-operative working draft. It grants no rights or permissions and must not be applied to any work. Keep this status visible wherever the draft is described or made available.
+**Current status:** MAPLE version `0.2.0` is an unratified, non-operative working draft. It grants no rights or permissions and must not be applied to any work. Keep this status visible wherever the draft is described or made available.
 
 ### Use and integrate MAPLE
 
@@ -71,7 +71,7 @@ Share significant milestones and future work, including developing the draft sec
 Provide a dedicated FAQ page where visitors can select a question to reveal its answer. Keep answers concise and aligned with the version they describe. Initial questions can include:
 
 - **What is MAPLE?** An OpenRockets initiative developing a licensing framework with young creators in mind.
-- **Can I use the current draft?** No. Version `0.1.0` is an unratified, non-operative draft and must not be applied to a work.
+- **Can I use the current draft?** No. Version `0.2.0` is an unratified, non-operative draft and must not be applied to a work.
 - **Where can I find published versions and research?** The website's version history and publication sections will link to approved public materials as they become available.
 - **What do the version numbers mean?** The versioning documentation explains how working drafts and ratified releases are distinguished.
 

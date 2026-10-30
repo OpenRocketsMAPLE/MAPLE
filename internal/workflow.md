@@ -11,7 +11,7 @@ The license text and white paper are separate documents. The license contains th
 - Preserve earlier versions rather than replacing their historical records.
 - Track specific feedback and proposed changes in repository issues, with references to the affected version and section.
 
-The current license is `0.1.0`, an unratified, non-operative working draft. Saving or committing it does not authorize its use as a license.
+The current license is `0.2.0`, an unratified, non-operative working draft. Saving or committing it does not authorize its use as a license.
 
 ## 2. Prepare the research document in Overleaf
 

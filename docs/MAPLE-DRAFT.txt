@@ -1,16 +1,62 @@
 MAPLE License
-Version 0.1.0 (Unratified Working Draft), October 2026
+Version 0.2.0 (Unratified Working Draft), October 2026
 <<Canonical License URL TBA in Version 1.0>>
 Status: NON-OPERATIVE DRAFT, DO NOT USE OR APPLY
-IMPORTANT LEGAL NOTICE, NULLITY OF DRAFT: This document (Version 0.1.0, and any version bearing a leading "0" in its version identifier) is an incomplete, unratified working draft created solely for internal drafting and review. It is NOT a valid or operative license. No rights, permissions, or licenses (whether express, implied, or by estoppel) are granted by this document. Under no circumstances may any person or entity apply, adopt, or reference this draft for any work. Any purported licensing or distribution of a work under a "0.X.Y" draft version is void ab initio and without legal effect.
+IMPORTANT LEGAL NOTICE, NON-OPERATIVE DRAFT: This document (Version 0.2.0, and any version bearing a leading "0" in its version identifier) is an incomplete, unratified working draft created solely for drafting, discussion, research, and review. It is NOT a valid or operative license. No rights, permissions, or licenses (whether express, implied, or by estoppel) are granted by this document. This draft may be referenced for discussion, research, and review, but must not be adopted or applied as a license for any work. This document does not authorize licensing or distribution of a work under a "0.X.Y" draft version.
+
+PREAMBLE
+
+MAPLE is being developed to support young creators (minors) in sharing and distributing their works, with a clear framework for copyright permissions and attribution. It aims to make licensing choices easier to understand while respecting creators' rights.
+
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, SUBLICENSING, AND DISTRIBUTION
 
-   1. Definitions.
+   1. Definitions
 
       "License" shall mean the terms and conditions for use, reproduction, modification, sublicensing, and distribution as defined by Sections 1 through 9 of this document.
 
 [Additional definitions reserved for subsequent 0.X.Y draft iterations]
-[Sections 2 through 9: Reserved for subsequent 0.X.Y draft iterations]
+
+[Note: This section will define terms used to describe creators, works, permissions, and attribution.]
+
+2. Scope, Permissions and Grant of Copyright License
+
+TBA
+
+[Note: This section will address how copyright permissions support young creators in making informed choices about sharing their works.]
+
+3. Scope, Permissions and Grant of Patent License
+
+TBA
+
+4. Distribution
+
+TBA
+
+[Note: This section will address distribution and attribution when works are shared.]
+
+5. Submissions of Contributions
+
+TBA
+
+[Note: This section will address how contributions from creators, including young creators, are recognized and handled.]
+
+6. Trademarks
+
+TBA   
+
+7. Disclaimer of Warranty
+
+TBA
+
+8. Limitation of Liability and Additional Liability
+
+TBA
+
+9. License Versions and Governance
+
+TBA
+
+[Substantive terms of Sections 2 through 9 reserved for subsequent 0.X.Y draft iterations]
 
    END OF TERMS AND CONDITIONS
 
@@ -21,21 +67,21 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, SUBLICENSING, AND DIST
       To apply the MAPLE License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
       replaced with your own identifying information. (Don't include
-      the brackets!) The text should be enclosed in the appropriate
-      comment syntax for the file format. We recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+      the brackets!) Place the notice with the work in a way that
+      suits its format. For software, use appropriate comment syntax.
+      Include the name of the work and a brief description of its
+      purpose with the copyright notice to help identify it
+      within third-party archives.
 
    Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the MAPLE License, Version 0.1.0 (the "License");
-   you may not use this file except in compliance with the License.
+   Licensed under the MAPLE License, Version 0.2.0 (the "License");
+   you may not use this work except in compliance with the License.
    You may obtain a copy of the License at
 
        <NO OPERATIVE URI, UNRATIFIED WORKING DRAFT>
 
-   Unless required by applicable law or agreed to in writing, software
+   Unless required by applicable law or agreed to in writing, the work
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
