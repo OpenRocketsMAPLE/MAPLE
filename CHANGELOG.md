@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### License draft 0.2.0
+
+- Added a purpose preamble and section notes, and established the section structure for copyright, patents, distribution, contributions, trademarks, warranties, liability, and version governance.
+- Clarified the draft notice and adapted the application template for works beyond software.
+
 ### License and project documentation
 
 - Synchronized the plain-text license draft with the ODT and added a repeatable synchronization check.
