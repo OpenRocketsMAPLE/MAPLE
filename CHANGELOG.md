@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Versioning documentation
+
+- Clarified Gemini's role in the versioning discussion and the review status of its suggestions.
+
 ### License draft 0.2.0
 
 - Added a purpose preamble and section notes, and established the section structure for copyright, patents, distribution, contributions, trademarks, warranties, liability, and version governance.

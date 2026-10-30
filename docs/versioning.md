@@ -1,5 +1,7 @@
 # MAPLE License Versioning and Governance Specification
 
+> I also used Gemini to help discuss the versioning system throughout this, and it provided several versioning suggestions. I included them to check if they are valid or unnecessary.
+
 ## 1. Version identifier
 
 Each version uses three integers:
@@ -98,7 +100,7 @@ Examples include:
 
 The official repository records the complete identifier, such as `1.0.1`.
 
-Gemini also proposes allowing source-code headers to use `Version 1.0` as shorthand for the `1.0.Z` errata family, while retaining the exact three-integer identifier in the official records.
+A suggested option would allow source-code headers to use `Version 1.0` as shorthand for the `1.0.Z` errata family, while retaining the exact three-integer identifier in the official records.
 
 ## 4. Published text and permanent references
 
@@ -114,7 +116,7 @@ This preserves the ability to identify the terms associated with a particular re
 
 ## 5. Future-version selection
 
-Gemini proposes a dual-option upgrade mechanism for Section 9.
+A dual-option upgrade mechanism has been suggested for Section 9.
 
 ### 5.1 Default permission to use later releases
 
@@ -132,11 +134,11 @@ Example:
 
 Under the proposal, this excludes the default permission to choose later versions.
 
-Gemini describes this as drawing on the future-version approach used by the Mozilla Public License.
+This suggestion draws on the future-version approach used by the Mozilla Public License.
 
 ## 6. Notices without a version identifier
 
-If a work states that it is licensed under “the MAPLE License” without identifying a version, Gemini proposes that the recipient may choose only among:
+If a work states that it is licensed under “the MAPLE License” without identifying a version, a suggested fallback would allow the recipient to choose only among:
 
 - Officially ratified operative releases.
 - Releases published at the time that work was distributed.
@@ -147,7 +149,7 @@ All `0.X.Y` drafts are excluded from this fallback.
 
 Every `0.X.Y` license draft must contain an explicit notice that it is non-operative and grants no rights or permissions.
 
-Gemini proposes that the notice state that any purported grant under a draft version is **void ab initio**, meaning invalid from the outset.
+A suggested notice would state that any purported grant under a draft version is **void ab initio**, meaning invalid from the outset.
 
 The intended safeguard is to prevent someone from treating an incomplete draft as an unrestricted license merely because its substantive restrictions have not yet been written.
 
@@ -155,7 +157,7 @@ Release candidates retain the same draft restriction until formal ratification a
 
 ## 8. References to future releases and websites
 
-Gemini proposes removing promises about when a website or “Version 1” will become available from the draft legal text.
+One suggestion is to remove promises about when a website or “Version 1” will become available from the draft legal text.
 
 Instead, draft location fields would identify the present status:
 
