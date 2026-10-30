@@ -4,7 +4,7 @@
 
 ### Versioning documentation
 
-- Clarified Gemini's role in the versioning discussion and the review status of its suggestions.
+- Clarified the source and review status of the versioning suggestions.
 
 ### License draft 0.2.0
 

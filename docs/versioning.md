@@ -1,6 +1,6 @@
 # MAPLE License Versioning and Governance Specification
 
-> I also used Gemini to help discuss the versioning system throughout this, and it provided several versioning suggestions. I included them to check if they are valid or unnecessary.
+> I also used Gemini to provide several suggestions for the versioning system. I included them to check if they are valid or unnecessary.
 
 ## 1. Version identifier
 
