@@ -6,6 +6,8 @@
 >
 > Arjun (aka me) will handle the website's design, user interface, development, and all other website decisions. This is a content plan, with bento boxes for resource links as its only UI guidance.
 
+The MAPLE website is available at [maple.openrockets.com](https://maple.openrockets.com/).
+
 This document outlines the story, information, and resources for the MAPLE website. Publish material and links only when they are ready for public release; the development repository remains private.
 
 ## 1. Introduction
