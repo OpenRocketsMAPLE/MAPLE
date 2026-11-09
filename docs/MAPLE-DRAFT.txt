@@ -1,8 +1,8 @@
 MAPLE License
-Version 0.2.0 (Unratified Working Draft), October 2026
+Version 0.2.1 (Unratified Working Draft), November 2026
 <<Canonical License URL TBA in Version 1.0>>
 Status: NON-OPERATIVE DRAFT, DO NOT USE OR APPLY
-IMPORTANT LEGAL NOTICE, NON-OPERATIVE DRAFT: This document (Version 0.2.0, and any version bearing a leading "0" in its version identifier) is an incomplete, unratified working draft created solely for drafting, discussion, research, and review. It is NOT a valid or operative license. No rights, permissions, or licenses (whether express, implied, or by estoppel) are granted by this document. This draft may be referenced for discussion, research, and review, but must not be adopted or applied as a license for any work. This document does not authorize licensing or distribution of a work under a "0.X.Y" draft version.
+IMPORTANT LEGAL NOTICE, NON-OPERATIVE DRAFT: This document (Version 0.2.1, and any version bearing a leading "0" in its version identifier) is an incomplete, unratified working draft created solely for drafting, discussion, research, and review. It is NOT a valid or operative license. No rights, permissions, or licenses (whether express, implied, or by estoppel) are granted by this document. This draft may be referenced for discussion, research, and review, but must not be adopted or applied as a license for any work. This document does not authorize licensing or distribution of a work under a "0.X.Y" draft version.
 
 PREAMBLE
 
@@ -12,11 +12,25 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, MODIFICATION, SUBLICENSING, AND DIST
 
    1. Definitions
 
-      "License" shall mean the terms and conditions for use, reproduction, modification, sublicensing, and distribution as defined by Sections 1 through 9 of this document.
+"License" shall mean the terms and conditions for use, reproduction, modification, sublicensing, and distribution set out in Sections 1 through 9 of this document.
 
-[Additional definitions reserved for subsequent 0.X.Y draft iterations]
+"Licensor" shall mean the copyright owner or a person or entity authorized by that owner to grant this License.
 
-[Note: This section will define terms used to describe creators, works, permissions, and attribution.]
+"Legal Entity" shall mean an organization or other entity recognized as a separate legal person under applicable law, together with any entities it controls, is controlled by, or is under common control with. For this definition, "control" means the direct or indirect power to direct or cause the direction of an entity’s management or policies, by ownership, agreement, or otherwise. A parent or legal guardian is not included solely because of that relationship. Whether a parent, guardian, or other person may act for a rights holder depends on applicable law or separate authorization.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications to a Work, as applicable. It may include source code, editable text, design files, configuration files, or another editable original form suited to the Work.
+
+"Object" form shall mean any form resulting from compiling, rendering, formatting, or otherwise transforming a Source form, including compiled software, rendered media, and published or flattened documents.
+
+"Work" shall mean a work of authorship made available under this License in Source form, Object form, or another form, and identified by a copyright or license notice included with, attached to, or otherwise clearly associated with it. A notice may identify the files or materials in a collection that it covers.
+
+"Derivative Works" shall mean works in any form based on the Work whose modifications, adaptations, or additions, considered as a whole, constitute original authorship. A compilation that merely includes the Work alongside separate or independent works does not, by itself, make those other works Derivative Works.
+
+"Contribution" shall mean an original addition or modification to the Work that its copyright owner, or a person or entity authorized by that owner, intentionally and expressly submits to the Licensor for inclusion in the Work under this License. A general comment, suggestion, issue report, or other discussion is not a Contribution solely because it is sent to the Licensor or its representative, or posted to a mailing list, repository, or issue tracker. The submission must clearly indicate that the material is offered for inclusion under this License.
+
+"Contributor" shall mean the Licensor and each copyright owner, or person or entity authorized by that owner, whose Contribution is accepted for inclusion in the Work under this License.
 
 2. Scope, Permissions and Grant of Copyright License
 
@@ -75,7 +89,7 @@ TBA
 
    Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the MAPLE License, Version 0.2.0 (the "License");
+   Licensed under the MAPLE License, Version 0.2.1 (the "License");
    you may not use this work except in compliance with the License.
    You may obtain a copy of the License at
 

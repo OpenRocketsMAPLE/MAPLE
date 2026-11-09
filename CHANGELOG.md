@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### License draft 0.2.1
+
+- Clarified the definitions for licensors, entities, covered works, and source and object forms.
+- Separated a parent or guardian's authority to represent a rights holder from entity affiliation, and required an intentional offer for contributions.
+- Distinguished the current repository draft from the latest published Zenodo version.
+
 ### Versioning documentation
 
 - Clarified the source and review status of the versioning suggestions.

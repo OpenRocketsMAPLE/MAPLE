@@ -11,7 +11,7 @@ The license text and white paper are separate documents. The license contains th
 - Preserve earlier versions rather than replacing their historical records.
 - Track specific feedback and proposed changes in repository issues, with references to the affected version and section.
 
-The current license is `0.2.0`, an unratified, non-operative working draft. Saving or committing it does not authorize its use as a license.
+The latest repository draft is `0.2.1`, an unratified, non-operative working draft. The latest published Zenodo snapshot is `0.2.0` ([DOI](https://doi.org/10.5281/zenodo.23950382)). Saving or committing the draft does not authorize its use as a license, and a new Zenodo record does not ratify it.
 
 ## 2. Prepare the research document in Overleaf
 
